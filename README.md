@@ -15,7 +15,8 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 - [ ] [EPIC - Add API Team Support]()
 - [ ] [Move Connection String to AppSettings]()
 - [ ] [Support User.Config Files]()
-- [ ] [Cache File Request for Faster Retrieval]()
+- [ ] [EPIC - Support All Folding Members]()
+- [ ] [EPIC - Support All Teams]()
 
 ## Merged Folding Website
 
