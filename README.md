@@ -1,10 +1,21 @@
 # FoldingCoin, Inc. Backlog
 
-This repo will be used to maintain the FoldingCoin, Inc. backlog. The backlog items and descriptions to complete them. When creating a new item, refer to the templates folder for the standard structure ex. [user stories](Templates/UserStory.md).
+Our backlog items and descriptions to complete them. When creating a new item, refer to the templates folder for the standard structure ex. [user stories](Templates/UserStory.md).
 
 ## FoldingCoin, Inc. Website
 
+- [ ] [Update Copyright to 2019]()
+
 ## Stats Download Services and API
+
+- [ ] [Use File Hosting For File Storage]()
+- [ ] [Add MySQL Database Support]()
+- [ ] [Add Integration Test Support]()
+- [ ] [Use .NET Core Database Interfaces Instead of 'Wrappers']()
+- [ ] [EPIC - Add API Team Support]
+- [ ] [Move Connection String to AppSettings]()
+- [ ] [Support User.Config Files]()
+- [ ] [Cache File Request for Faster Retrieval]()
 
 ## Merged Folding Website
 
@@ -27,7 +38,7 @@ This repo will be used to maintain the FoldingCoin, Inc. backlog. The backlog it
 ## Discord Bot
 
 - [ ] [BUG - Stop MainBot From Constantly Crashing]()
-- [ ] [EPIC - Move Discord Bot to Use Api.MergedFolding.net]()
+- [ ] [EPIC - Move Discord Bot to Use Stats API]()
 
 ## CMS Plugins
 
@@ -36,3 +47,4 @@ This repo will be used to maintain the FoldingCoin, Inc. backlog. The backlog it
 ## Other
 
 - [ ] [Redirect to WWW.FoldingCoin.net]()
+- [ ] [Create CNAME for API.MergedFolding.net]()
