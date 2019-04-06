@@ -22,7 +22,7 @@ This repo will be used to maintain the FoldingCoin, Inc. backlog. The backlog it
 
 ## FLDC Installers
 
-- [] [EPIC - Create Simple Installer]()
+- [ ] [EPIC - Create Simple Installer]()
 
 ## Discord Bot
 
