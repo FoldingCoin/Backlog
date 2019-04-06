@@ -4,7 +4,7 @@ This repo will be used to maintain the FoldingCoin, Inc. backlog.
 
 ## Backlog Items
 
-The backlog items
+The backlog items and descriptions to complete them. When creating a new item, refer to the templates folder for the standard structure ex. [user stories](Templates/UserStory.md).
 
 ### Stats Download Services and API
 
