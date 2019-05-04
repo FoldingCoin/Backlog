@@ -8,15 +8,19 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 
 ## Stats Download Services and API
 
+### Epics
+- [ ] [EPIC - Add API Team Support]()
+- [ ] [EPIC - Support All Folding Members]()
+- [ ] [EPIC - Support All Teams]()
+
+### Stories
+
 - [ ] [Use File Hosting For File Storage]()
 - [ ] [Add MySQL Database Support]()
 - [ ] [Add Integration Test Support]()
 - [ ] [Use .NET Core Database Interfaces Instead of 'Wrappers']()
-- [ ] [EPIC - Add API Team Support]()
 - [ ] [Move Connection String to AppSettings]()
 - [ ] [Support User.Config Files]()
-- [ ] [EPIC - Support All Folding Members]()
-- [ ] [EPIC - Support All Teams]()
 
 ## Merged Folding Website
 
