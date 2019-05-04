@@ -4,31 +4,35 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 
 ## FoldingCoin, Inc. Website
 
-- [ ] [Update Copyright to 2019]()
+- [ ] [Update Copyright to 2019](FoldingCoinWebsite/1.md)
+- [ ] [Redirect to WWW.FoldingCoin.net](FoldingCoinWebsite/2.md)
 
 ## Stats Download Services and API
 
 ### Epics
-- [ ] [EPIC - Add API Team Support]()
-- [ ] [EPIC - Support All Folding Members]()
-- [ ] [EPIC - Support All Teams]()
+- [ ] [EPIC - Add API Team Support](StatsDownload/1.md)
+- [ ] [EPIC - Support All Folding Members](StatsDownload/2.md)
+- [ ] [EPIC - Support All Teams](StatsDownload/3.md)
 
 ### Stories
 
-- [ ] [Use File Hosting For File Storage]()
-- [ ] [Add MySQL Database Support]()
-- [ ] [Add Integration Test Support]()
-- [ ] [Use .NET Core Database Interfaces Instead of 'Wrappers']()
-- [ ] [Move Connection String to AppSettings]()
-- [ ] [Support User.Config Files]()
+- [ ] [Use File Hosting For File Storage](StatsDownload/4.md)
+- [ ] [Add MySQL Database Support](StatsDownload/5.md)
+- [ ] [Add Integration Test Support](StatsDownload/6.md)
+- [ ] [Use .NET Core Database Interfaces Instead of 'Wrappers'](StatsDownload/7.md)
+- [ ] [Move Connection String to AppSettings](StatsDownload/8.md)
+- [ ] [Support User.Config Files](StatsDownload/9.md)
 
 ## Merged Folding Website
 
-- [ ] [EPIC - Automate Daily Off-Chain Distributions]()
+### Epics
 
-## FLDC Stats Website
+- [ ] [EPIC - Display All Members and Teams in Stats.MergedFolding.net](MergedFoldingWebsite/1.md)
+- [ ] [EPIC - Automate Daily Off-Chain Distributions](MergedFoldingWebsite/2.md)
 
-- [ ] [EPIC - Display All Members and Teams in Stats.MergedFolding.net]()
+### Stories
+
+- [ ] [Create CNAME for API.MergedFolding.net](MergedFoldingWebsite/3.md)
 
 ## Donation Website
 
@@ -36,20 +40,20 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 - [ ] [Make Donation Buttons More Obvious As Buttons](DonationWebsite/2.md)
 - [ ] [Last Screen Width Donate Button Should Open One-Time Donation Section When Clicked](DonationWebsite/3.md)
 
-## FLDC Installers
+## Folding Installers
 
-- [ ] [EPIC - Create Simple Installer]()
+- [ ] [EPIC - Create Simple Folding Installer](FoldingInstallers/1.md)
 
 ## Discord Bot
 
-- [ ] [BUG - Stop MainBot From Constantly Crashing]()
-- [ ] [EPIC - Move Discord Bot to Use Stats API]()
+### Epics
+
+- [ ] [EPIC - Move Discord Bot to Use Stats API](DiscordBot/1.md)
+
+### Bugs
+
+- [ ] [BUG - Stop MainBot From Constantly Crashing](DiscordBot/2.md)
 
 ## CMS Plugins
 
-- [ ] [EPIC - Create WHMCS.com FLDC Shopping Plugin]()
-
-## Other
-
-- [ ] [Redirect to WWW.FoldingCoin.net]()
-- [ ] [Create CNAME for API.MergedFolding.net]()
+- [ ] [EPIC - Create WHMCS.com FLDC Shopping Plugin](CmsPlugins/1.md)
