@@ -32,7 +32,7 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 
 ### Stories
 
-- [ ] [Create CNAME for API.MergedFolding.net](MergedFoldingWebsite/3.md)
+- [ ] [Use API.MergedFolding.net to access API](MergedFoldingWebsite/3.md)
 
 ## Donation Website
 

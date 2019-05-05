@@ -1,19 +1,27 @@
 # {Epic Title}
 
-A short summary about this Epic to help provide context for technical and functional reasoning
+A short summary about this epic to help provide context for technical and functional reasoning
 
-## Stories
+## Dependencies
 
-Dependencies this epic relies on being completed first as well as the epic's stories
-
-## Acceptance Criteria
-
-Steps that QA will execute to validate the Epic is complete
+Any dependencies this epic requires to be completed first
 
 ## Assumptions & Risk
 
 Any assumptions that are made and their corresponding risks
 
-## Dev Notes
+## Non-Functional Requirements
 
-Notes for the developer
+The non-functional requirements that must be satisified to complete this epic
+
+## Functional Requirements
+
+The functional requirements that must be satisifed to complete this epic
+
+## Stories
+
+Dependencies this epic relies on being completed first as well as the epic's stories
+
+## Additional Documentation Links
+
+Links to additional documentation
