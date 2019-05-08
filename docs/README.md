@@ -8,21 +8,22 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 - [ ] [Redirect to WWW.FoldingCoin.net](FoldingCoinWebsite/2.md)
 
 ## Stats Download Services and API
+<-- Next item number: 10 -->
 
 ### Epics
 
+- [ ] [EPIC - Use File Hosting For File Storage](StatsDownload/4.md)
 - [ ] [EPIC - Add API Team Support](StatsDownload/1.md)
 - [ ] [EPIC - Support All Folding Members](StatsDownload/2.md)
 - [ ] [EPIC - Support All Teams](StatsDownload/3.md)
 
 ### Stories
 
-- [ ] [Use File Hosting For File Storage](StatsDownload/4.md)
-- [ ] [Add MySQL Database Support](StatsDownload/5.md)
 - [ ] [Add Integration Test Support](StatsDownload/6.md)
 - [ ] [Use .NET Core Database Interfaces Instead of 'Wrappers'](StatsDownload/7.md)
 - [ ] [Move Connection String to AppSettings](StatsDownload/8.md)
 - [ ] [Support User.Config Files](StatsDownload/9.md)
+- [ ] [Add MySQL Database Support](StatsDownload/5.md)
 
 ## Merged Folding Website
 
