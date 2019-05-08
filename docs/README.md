@@ -8,7 +8,7 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 - [ ] [Redirect to WWW.FoldingCoin.net](FoldingCoinWebsite/2.md)
 
 ## Stats Download Services and API
-<-- Next item number: 10 -->
+[](Next item number: 10)
 
 ### Epics
 
