@@ -8,7 +8,7 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 - [ ] [Redirect to WWW.FoldingCoin.net](FoldingCoinWebsite/2.md)
 
 ## Stats Download Services and API
-[//]: # (Next item number: 10)
+[//]: # (Next item number: 12)
 
 ### Epics
 
@@ -24,6 +24,8 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 - [ ] [Move Connection String to AppSettings](StatsDownload/8.md)
 - [ ] [Support User.Config Files](StatsDownload/9.md)
 - [ ] [Add MySQL Database Support](StatsDownload/5.md)
+- [ ] [Retry File Download if Download Exception Thrown](StatsDownload/10.md)
+- [ ] [Retry File Download if Download File is Empty](StatsDownload/11.md)
 
 ## Merged Folding Website
 
