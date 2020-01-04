@@ -12,7 +12,7 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 
 ### Epics
 
-- [ ] [EPIC - Use File Hosting For File Storage](StatsDownload/4.md)
+- [X] [EPIC - Use File Hosting For File Storage](StatsDownload/4.md)
 - [ ] [EPIC - Add API Team Support](StatsDownload/1.md)
 - [ ] [EPIC - Support All Folding Members](StatsDownload/2.md)
 - [ ] [EPIC - Support All Teams](StatsDownload/3.md)
@@ -56,7 +56,7 @@ Our backlog items and descriptions to complete them. When creating a new item, r
 
 ### Bugs
 
-- [ ] [BUG - Stop MainBot From Constantly Crashing](DiscordBot/2.md)
+- [X] [BUG - Stop MainBot From Constantly Crashing](DiscordBot/2.md)
 
 ## CMS Plugins
 
